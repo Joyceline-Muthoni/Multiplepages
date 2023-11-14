@@ -154,7 +154,7 @@ p {
   transition: 0.5s;
 }
 
-h3 {
+.course-col h3 {
   text-align: center;
   margin: 10px 0;
   font-weight: 600;
@@ -199,7 +199,7 @@ h3 {
   background: rgba(226, 0, 0, 0.7);
 }
 
-h3 {
+ .layer h3 {
   color: #fff;
   width: 100%;
   font-size: 26px;
