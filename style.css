@@ -250,14 +250,14 @@ p {
   margin: auto;
 }
 .testimonial-col {
+  text-align: left;
   flex-basis: 44%;
-  margin-bottom: 5%;
-  text-align: center;
-  border-radius: 10x;
+  background: #fff3f3;
+  display: flex;
   padding: 25px;
   cursor: pointer;
-  background-color: #fff3f3;
-  display: flex;
+  margin-bottom: 5%;
+  border-radius: 10px;
 }
 .testimonial-col img {
   border-radius: 50%;
